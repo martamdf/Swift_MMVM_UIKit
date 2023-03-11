@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoginViewController.loadView():LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewModel.login(email:password:):LoginViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loginToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.getLogin(email:password:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.setUpUpdateUI():LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewModel.getter:LoginViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
